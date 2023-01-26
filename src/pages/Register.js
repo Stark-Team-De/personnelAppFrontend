@@ -15,7 +15,6 @@ import {Formik,Form} from 'formik';
 import * as Yup from 'yup';
 import { AuthContext } from '../contexts/AuthContext';
 
-
 const theme = createTheme();
 
 export default function Register() {
