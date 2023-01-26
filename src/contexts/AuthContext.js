@@ -1,5 +1,5 @@
 import axios from 'axios';
-import {createContext, useDeferredValue, useState} from 'react'
+import {createContext, useState} from 'react'
 import { toastSuccessNotify } from '../helper/ToastNotify';
 
 export const AuthContext = createContext();
